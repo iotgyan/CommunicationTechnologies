@@ -1,12 +1,13 @@
 "# CommunicationTechnologies" 
 
-**Communication Technologies **
+**Communication Technologies**
 
 In the rapidly growing Internet of Things (IoT), applications from personal electronics to industrial machines and sensors are getting wirelessly connected to the Internet. Covering a wide variety of use cases, in various environments and serving diverse requirements, no single wireless standard can adequately prevail. With numerous standards deployed in the market, spreading over multiple frequency bands and using different communication protocols, choosing the right wireless connectivity technology for an IoT application can be quite challenging. 
 
 ![Alt Text](https://res.cloudinary.com/people-matters/image/upload/w_624,h_351,c_scale,q_70/v1455703733/1455703731.jpg)
 
 **Bluetooth**
+
 Bluetooth is a type of wireless communication used to transmit voice and data at high speeds using radio waves. It is a standard protocol for short-range radio communications between many different types of devices, including mobile phones, computers, entertainment systems and other electronics. Devices need to be within approximately 10 meters of each 
 
 
